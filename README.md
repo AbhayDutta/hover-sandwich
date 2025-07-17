@@ -1,36 +1,44 @@
-# 🥪 Hover Sandwich
+## Readme
 
-A playful 3D sandwich component built using **pure HTML and CSS**, designed to showcase creative UI animation with layer-by-layer structure.  
-Each sandwich layer (bread, lettuce, tomato, cheese) animates on hover, creating a fun, interactive effect.
+# 🥪 Animated Sandwich
 
----
+![Animated Sandwich](./sandwich.gif)
 
-## 💡 Features
+This project features an animated sandwich with various layers of ingredients, showcasing intricate CSS animations and hover effects.
 
-- 🧠 No JavaScript – 100% HTML + CSS
-- 🥬 Layered sandwich structure with hover interaction
-- 💻 Responsive and clean layout
-- 🎨 Great for portfolios, landing pages, or CSS experiments
+## 📦 Technologies
 
----
+Built with:
 
-## 📸 Preview
+- `HTML:` Markup language for creating the structure.
+- `CSS:` For styling and animations.
 
-![Hover Sandwich Screenshot](images/screenshot.png)  
-*(Add your sandwich screenshot here)*
+## ⚙️ Getting Started
 
----
+To view and interact with the animated sandwich:
 
-## 🛠️ Tech Stack
+1. Download the project files.
+2. Open the `index.html` file in Visual Studio Code.
+3. Use the Live Server extension in VS Code to view the project in your web browser.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
+## 🖱️ Interaction
 
----
+Hover over the sandwich to see the layers animate and expand, creating a delightful visual effect.
 
-## 🚀 Getting Started
+## 🛣️ Project Structure
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/hover-sandwich.git
+Here are the key files and their purposes:
+
+- **index.html**: The main HTML file containing the structure of the animated sandwich.
+- **style.css**: The CSS file that styles the sandwich and adds animations.
+
+Feel free to explore and customize these files to suit your needs!
+
+## 🔄 Animations
+
+The sandwich animation includes various CSS animations that create a dynamic and engaging effect. Here’s an overview:
+
+- **Bread Layers**: The bread layers move and create a stacking effect on hover.
+- **Lettuce**: The lettuce leaves rotate and shift slightly on hover.
+- **Tomato**: The tomato slices rotate and move to add depth.
+- **Cheese**: The cheese slices adjust their position to create a melting effect.
