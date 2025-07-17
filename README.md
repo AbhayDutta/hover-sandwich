@@ -16,7 +16,7 @@ Each sandwich layer (bread, lettuce, tomato, cheese) animates on hover, creating
 
 ## 📸 Preview
 
-![Hover Sandwich Screenshot](images/sandwich.gif)  
+![Hover Sandwich Screenshot](images/screenshot.png)  
 *(Make sure to add a screenshot here if possible)*
 
 ---
