@@ -17,15 +17,15 @@ Each sandwich layer (bread, lettuce, tomato, cheese) animates on hover, creating
 ## 📸 Preview
 
 ![Hover Sandwich Screenshot](images/screenshot.png)  
-*(Make sure to add a screenshot here if possible)*
+*(Add your sandwich screenshot here)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3  
-- Google Fonts (Kalam)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
